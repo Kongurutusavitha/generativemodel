@@ -58,4 +58,4 @@ A list of sample topics is used to demonstrate the model’s ability to generate
 
 OUTPUT:
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b08e4652-0707-4785-b9ba-25da1a557372" />
